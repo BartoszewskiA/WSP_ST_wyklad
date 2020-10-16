@@ -1,0 +1,10 @@
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\bin\Debug\w02p01-klikacz.exe.config
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\bin\Debug\w02p01-klikacz.exe
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\bin\Debug\w02p01-klikacz.pdb
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01-klikacz.csprojAssemblyReference.cache
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01_klikacz.Form1.resources
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01_klikacz.Properties.Resources.resources
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01-klikacz.csproj.GenerateResource.cache
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01-klikacz.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01-klikacz.exe
+C:\Users\AB\source\repos\w02p01-klikacz\w02p01-klikacz\obj\Debug\w02p01-klikacz.pdb

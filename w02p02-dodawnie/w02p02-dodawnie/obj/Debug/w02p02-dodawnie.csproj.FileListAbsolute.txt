@@ -1,0 +1,9 @@
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\bin\Debug\w02p02-dodawnie.exe.config
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\bin\Debug\w02p02-dodawnie.exe
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\bin\Debug\w02p02-dodawnie.pdb
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02_dodawnie.Form1.resources
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02_dodawnie.Properties.Resources.resources
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02-dodawnie.csproj.GenerateResource.cache
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02-dodawnie.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02-dodawnie.exe
+C:\Users\AB\source\repos\w02p02-dodawnie\w02p02-dodawnie\obj\Debug\w02p02-dodawnie.pdb

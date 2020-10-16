@@ -1,0 +1,13 @@
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.exe
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.deps.json
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.runtimeconfig.json
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.runtimeconfig.dev.json
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.dll
+C:\Users\AB\source\repos\w01p01\w01p01\bin\Debug\netcoreapp3.1\w01p01.pdb
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.csprojAssemblyReference.cache
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.AssemblyInfoInputs.cache
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.AssemblyInfo.cs
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.csproj.CoreCompileInputs.cache
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.dll
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.pdb
+C:\Users\AB\source\repos\w01p01\w01p01\obj\Debug\netcoreapp3.1\w01p01.genruntimeconfig.cache
