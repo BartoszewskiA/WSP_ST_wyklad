@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\bin\Debug\W04p01-rgb.exe.config
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\bin\Debug\W04p01-rgb.exe
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\bin\Debug\W04p01-rgb.pdb
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01-rgb.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01_rgb.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01_rgb.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01-rgb.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01-rgb.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01-rgb.exe
+J:\Programy 2020\WSP_ST_wyklad\W04p01-rgb\W04p01-rgb\obj\Debug\W04p01-rgb.pdb
