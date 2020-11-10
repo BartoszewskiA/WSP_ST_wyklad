@@ -1,0 +1,9 @@
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\bin\Debug\W06p03-Stoper.exe.config
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\bin\Debug\W06p03-Stoper.exe
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\bin\Debug\W06p03-Stoper.pdb
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03_Stoper.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03_Stoper.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03-Stoper.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03-Stoper.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03-Stoper.exe
+J:\Programy 2020\WSP_ST_wyklad\W06p03-Stoper\W06p03-Stoper\obj\Debug\W06p03-Stoper.pdb

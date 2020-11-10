@@ -1,0 +1,9 @@
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\bin\Debug\W06p04.exe.config
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\bin\Debug\W06p04.exe
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\bin\Debug\W06p04.pdb
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.exe
+J:\Programy 2020\WSP_ST_wyklad\W06p04\W06p04\obj\Debug\W06p04.pdb

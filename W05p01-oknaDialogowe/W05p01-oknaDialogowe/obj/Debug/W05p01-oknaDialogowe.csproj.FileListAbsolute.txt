@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\bin\Debug\W05p01-oknaDialogowe.exe.config
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\bin\Debug\W05p01-oknaDialogowe.exe
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\bin\Debug\W05p01-oknaDialogowe.pdb
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01-oknaDialogowe.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01_oknaDialogowe.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01_oknaDialogowe.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01-oknaDialogowe.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01-oknaDialogowe.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01-oknaDialogowe.exe
+J:\Programy 2020\WSP_ST_wyklad\W05p01-oknaDialogowe\W05p01-oknaDialogowe\obj\Debug\W05p01-oknaDialogowe.pdb
