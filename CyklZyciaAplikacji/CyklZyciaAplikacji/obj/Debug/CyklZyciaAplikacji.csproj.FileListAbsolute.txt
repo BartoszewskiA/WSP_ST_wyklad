@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\bin\Debug\CyklZyciaAplikacji.exe.config
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\bin\Debug\CyklZyciaAplikacji.exe
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\bin\Debug\CyklZyciaAplikacji.pdb
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.exe
+J:\Programy 2020\WSP_ST_wyklad\CyklZyciaAplikacji\CyklZyciaAplikacji\obj\Debug\CyklZyciaAplikacji.pdb

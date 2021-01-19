@@ -1,0 +1,9 @@
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\bin\Debug\ZdarzeniaKlawitury.exe.config
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\bin\Debug\ZdarzeniaKlawitury.exe
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\bin\Debug\ZdarzeniaKlawitury.pdb
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.exe
+J:\Programy 2020\WSP_ST_wyklad\ZdarzeniaKlawitury\ZdarzeniaKlawitury\obj\Debug\ZdarzeniaKlawitury.pdb

@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+J:\Programy 2020\WSP_ST_wyklad\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
